@@ -1,6 +1,7 @@
 # L2 book and feature generation
 
-This is a completed a C++ implementation for generating top 5 bid ask levels from L3 and part 2 related features statistics.
+This is a completed a C++/Python
+implementation for generating top 5 bid ask levels from L3 and part 2 related features statistics.
 
 The implementation has key points:
 1. Abstraction: Object oriented (order class, orderbook class)
